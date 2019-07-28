@@ -1,0 +1,224 @@
+Country,Internet_accesspercountry(%),Internet_accessgroup
+Somalia,8,0-10%
+"Turkey Cypriot",0,0-10%
+"North Korea",0,0-10%
+"Saint Martin",3,0-10%
+Madagascar,7,0-10%
+"Sint Maarten",0,0-10%
+"Central African",5,0-10%
+Niger,4,0-10%
+"Western Sahara",5,0-10%
+"Guinea Bissau",6,0-10%
+Eritrea,1,0-10%
+Malawi,9,0-10%
+"Congo Democratic",6,0-10%
+Burundi,5,0-10%
+Chad,5,0-10%
+"Cocos (Keeling)",12,10-20%
+Gambia,18,10-20%
+Guinea,12,10-20%
+"South Sudan",17,10-20%
+Sierra,11,10-20%
+"Solomon Islands",12,10-20%
+Turkmenistan,18,10-20%
+Mauritania,17,10-20%
+Djibouti,18,10-20%
+Haiti,12,10-20%
+Ethiopia,15,10-20%
+Afghanistan,18,10-20%
+Congo,12,10-20%
+Mozambique,17,10-20%
+"Burkina Faso",18,10-20%
+Comoros,15,10-20%
+Papau,11,10-20%
+Antarctica,163,160-170%
+"St. Barthelemy",21,20-30%
+Yemen,24,20-30%
+"Equatorial Guinea",23,20-30%
+Angola,22,20-30%
+IvoryCoast,26,20-30%
+Lesotho,27,20-30%
+Rwanda,29,20-30%
+Sudan,28,20-30%
+Cameroon,24,20-30%
+Vanuatu,29,20-30%
+Pakistan,22,20-30%
+"St. Tome &amp;",27,20-30%
+Kiribati,27,20-30%
+Namibia,30,30-40%
+Ghana,34,30-40%
+Myanmar,33,30-40%
+Eswatini,32,30-40%
+Benin,32,30-40%
+Laos,35,30-40%
+"Marshall Islands",39,30-40%
+Turkey,33,30-40%
+"Wallis And Futuna",34,30-40%
+Cuba,32,30-40%
+"Sri Lanka",32,30-40%
+Tajikistan,32,30-40%
+"Timor Leste",30,30-40%
+Palau,35,30-40%
+Honduras,38,30-40%
+Zimbabwe,39,30-40%
+"American Samoa",39,30-40%
+Botswana,39,30-40%
+Tanzania,38,30-40%
+"Pitcairn Islands",340,340-350%
+"Christmas Island",45,40-50%
+Guatemala,42,40-50%
+Uzbekistan,47,40-50%
+Nicaragua,43,40-50%
+Guadeloupe,47,40-50%
+Egypt,49,40-50%
+"Norfolk Island",46,40-50%
+Camboya,49,40-50%
+Togo,45,40-50%
+Uganda,42,40-50%
+Mayotte,41,40-50%
+"British Virgin Islands",47,40-50%
+Kyrgyzstan,40,40-50%
+IraqIsrael,47,40-50%
+"Cabo Verde",47,40-50%
+"French Guiana",41,40-50%
+India,41,40-50%
+Tuvalu,49,40-50%
+Bhutan,45,40-50%
+Algeria,49,40-50%
+Zambia,40,40-50%
+Gabon,47,40-50%
+Nigeria,56,50-60%
+Reunion,54,50-60%
+St.Helena,54,50-60%
+Senegal,58,50-60%
+"South Africa",54,50-60%
+Belize,52,50-60%
+Bangladesh,55,50-60%
+"El Salvador",58,50-60%
+China,58,50-60%
+Dominican,56,50-60%
+Granada,52,50-60%
+Indonesia,53,50-60%
+Jamaica,56,50-60%
+Montserrat,56,50-60%
+"Santa Lucia",58,50-60%
+Tonga,53,50-60%
+Nepal,54,50-60%
+Guyana,50,50-60%
+Venezuela,53,50-60%
+Fiji,55,50-60%
+Micronesia,53,50-60%
+Nauru,57,50-60%
+Samoa,50,50-60%
+"Virgin Islands US",54,50-60%
+Qatar,59,50-60%
+Libya,58,50-60%
+Palestine,66,60-70%
+Dominica,66,60-70%
+Mali,63,60-70%
+Morocco,62,60-70%
+Tunisia,67,60-70%
+Chile,63,60-70%
+Tokelau,60,60-70%
+Georgia,68,60-70%
+Peru,68,60-70%
+Philippines,62,60-70%
+"Cook Islands",65,60-70%
+Surinam,60,60-70%
+Mongolia,63,60-70%
+Bolivia,68,60-70%
+Turkey,68,60-70%
+Mexico,65,60-70%
+Vietnam,66,60-70%
+Bulgaria,67,60-70%
+Mauritius,63,60-70%
+"St. Kitts &amp; Nevis",69,60-70%
+"Saint  Vincent &amp;",60,60-70%
+"Trinidad &amp;",69,60-70%
+Jordan,79,70-80%
+Poland,78,70-80%
+Brazil,71,70-80%
+Colombia,78,70-80%
+Martinique,77,70-80%
+"Saint Pierre",79,70-80%
+Panama,70,70-80%
+Armenia,72,70-80%
+Serbia,72,70-80%
+Montenegro,70,70-80%
+Macedonia,76,70-80%
+Iran,76,70-80%
+Kazakhstan,76,70-80%
+"Northern Mariana",72,70-80%
+Antigua,79,70-80%
+Seychelles,70,70-80%
+Romania,74,70-80%
+Portugal,78,70-80%
+Maldives,75,70-80%
+"French Polynesia",73,70-80%
+Malaysia,77,70-80%
+Greece,70,70-80%
+"Cayman Islands",76,70-80%
+"Turks And Caicos",71,70-80%
+Uruguay,88,80-90%
+Ecuador,80,80-90%
+Slovenia,80,80-90%
+Slovakia,85,80-90%
+Kenya,83,80-90%
+Liberia,81,80-90%
+Malta,83,80-90%
+Latvia,87,80-90%
+"Czech Republic",88,80-90%
+Hungary,89,80-90%
+Cyprus,81,80-90%
+Kuwait,86,80-90%
+"Costa Rica",87,80-90%
+Austria,88,80-90%
+Thailand,82,80-90%
+Bahamas,83,80-90%
+Barbados,80,80-90%
+"Bonaire,",82,80-90%
+Taiwan,88,80-90%
+Singapore,82,80-90%
+Curaçao,87,80-90%
+"Puerto Rico",83,80-90%
+"United States",89,80-90%
+Azerbaijan,80,80-90%
+Syria,89,80-90%
+"Hong Kong",86,80-90%
+"New Caledonia",82,80-90%
+Macao,80,80-90%
+Guam,81,80-90%
+Australia,87,80-90%
+Anguilla,84,80-90%
+Sweden,96,90-100%
+"United Kingdom",94,90-100%
+Lithuania,91,90-100%
+Argentina,93,90-100%
+Bermuda,99,90-100%
+"United Arab",97,90-100%
+Aruba,95,90-100%
+Germany,96,90-100%
+France,92,90-100%
+Luxemburg,96,90-100%
+Finland,94,90-100%
+"Falkland Islands",99,90-100%
+Estonia,98,90-100%
+Denmark,96,90-100%
+Paraguay,90,90-100%
+Oman,91,90-100%
+"South Korea",92,90-100%
+Japan,94,90-100%
+Canada,93,90-100%
+Brunei,94,90-100%
+Greenland,92,90-100%
+"Saudi Arabia",96,90-100%
+Niue,91,90-100%
+Netherlands,96,90-100%
+Bahrain,94,90-100%
+Croatia,91,90-100%
+Spain,93,90-100%
+Belgium,94,90-100%
+Ireland,92,90-100%
+Italy,93,90-100%
+Lebanon,97,90-100%
+"New Zealand",91,90-100%
